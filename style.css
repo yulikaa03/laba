@@ -5,6 +5,7 @@ header {
     background: #333;
     padding: 20px;
     text-align: center;
+    color: white; 
 }
 nav ul {
     list-style: none;
